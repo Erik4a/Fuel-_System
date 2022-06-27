@@ -1,0 +1,28 @@
+<meta>
+    <info name="Sistema Gasolina Avançado" author="#DaNiLiN" ></info>
+	<script src="Posto_S.lua" type="server" cache="false" />
+	
+	<script src="Danilin_S.lua" type="server"cache="false" />
+	<script src="Danilin_C.lua" type="client" cache="false" />
+	
+                      <!--  FONT'S -->
+	<file src="font/font.ttf" cache="false" />
+	<file src="font/font1.ttf" cache="false" />
+	<file src="font/OpenSans-Bold.ttf" cache="false" />
+	<file src="font/fontNick.ttf" cache="false" />
+	
+                       <!-- IMAGENS -->
+    <file src="Img/botao.png" cache="false" />
+    <file src="Img/Bomba.png" cache="false" />
+    <file src="Img/Marcador.png" cache="false" />
+    <file src="Img/Seta.png" cache="false" />
+    <file src="Img/Seta_Mangueira.png" cache="false" />
+	
+                       <!-- TXD'S -->
+    <file src="Txd/Mangueira.txd" cache="false" />
+    <file src="Txd/Mangueira.dff" cache="false" />
+	
+                      <!-- DX GRID -->
+	<script src="dx_lib/dxEditBox.lua" type="client" cache="false" />
+	<script src="dx_lib/dxGrid.lua" type="client" cache="false" />
+</meta>
